@@ -2,7 +2,7 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
-# Running the app
+# Exporting the environement variables
 
 Your need to export a few environement variables.
 
@@ -18,6 +18,14 @@ STEAM_ACCOUNT_ID32
 STEAM_ID3
 
 These 3 values can be found using this site : https://profile.tf/
+
+export all of these with the command export VAR=<value>
+
+# Running the app
+
+In the root folder run the command : npm run build
+
+The app should be served at http://localhost:3000/
 
 # Special thanks to these ressources
 
