@@ -38,3 +38,6 @@ The app should be served at `http://localhost:3000/`
 [MEAN App with Angular 2 and the Angular CLI](https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli)
 
 [Official Angular doc](https://angular.io/)
+
+
+![alt text](http://i.imgur.com/a8iTWCF.png "Dota2")
