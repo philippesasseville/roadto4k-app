@@ -25,7 +25,7 @@ Simply log on this [website](http://steamcommunity.com/dev/apikey) to get your a
 
 These 3 values can be found using this [website](https://profile.tf/)
 
-export all of these with the command export VAR=value
+export all of these with the command `export VAR=value`
 
 # Running the app
 
