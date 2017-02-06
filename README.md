@@ -29,6 +29,8 @@ These 3 values can be found using this [website](https://profile.tf/)
 
 export all of these with the command `export VAR=value`
 
+note: to retreive your matches your steam/dota2 profile needs to be public.
+
 # Running the app
 
 In the root folder run theses command : `npm install; npm run build;`
