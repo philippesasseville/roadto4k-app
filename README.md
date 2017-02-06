@@ -12,7 +12,7 @@ Your need to export a few environement variables.
 
 Here are the variables and the the places you can find them :
 
-MONGO_URI
+`MONGO_URI`
 Spin up a free instance on mongolab and create a db user. The uri will look like this : 
 `mongodb://dbuser:dbpassword@ds143559.mlab.com:43559/db-name`
 
