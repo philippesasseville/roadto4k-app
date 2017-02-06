@@ -1,0 +1,11 @@
+<div class="container" *ngIf="match">
+  <div class="card card-block">
+	<h2 class="card-title">Match {{match.match_id}} details!</h2>
+	<p class="card-text">{{ match.details.player_won == true ? 'Victory' : 'Defeat' }}</p>
+	<p class="card-text">Score: <span class="radiant">{{match.details.radiant_score}}</span>/<span class="dire">{{match.details.dire_score}}</span></p>
+	<p class="card-text"><a href="https://www.dotabuff.com/matches/{{match.match_id}}" target="_blank">Dotabuff Page</a></p>
+    <label>notes: </label>
+    <input [(ngModel)]="match.notes" placeholder="notes"/>
+    <button type="button" class="btn btn-primary" (click)="onSave()">Save</button>
+  </div>
+</div>
