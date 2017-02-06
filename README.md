@@ -8,29 +8,29 @@ Your need to export a few environement variables.
 
 Here are the variables and the the places you can find them :
 
-MONGO_URI => spin up a free instance on mongolab and create a db user. The uri will look like this : 
-mongodb://dbuser:dbpassword@ds143559.mlab.com:43559/db-name
+MONGO_URI
+Spin up a free instance on mongolab and create a db user. The uri will look like this : 
+`mongodb://dbuser:dbpassword@ds143559.mlab.com:43559/db-name`
 
-DOTA_API_KEY => simply log on this site to get your api key : http://steamcommunity.com/dev/apikey
+`DOTA_API_KEY`
+Simply log on this [website](http://steamcommunity.com/dev/apikey) to get your api key.
 
-STEAM_ACCOUNT_ID
-STEAM_ACCOUNT_ID32
-STEAM_ID3
+`STEAM_ACCOUNT_ID`
+`STEAM_ACCOUNT_ID32`
+`STEAM_ID3`
 
-These 3 values can be found using this site : https://profile.tf/
+These 3 values can be found using this [website](https://profile.tf/)
 
 export all of these with the command export VAR=value
 
 # Running the app
 
-In the root folder run theses command : npm install; npm run build;
+In the root folder run theses command : `npm install; npm run build;`
 
-The app should be served at http://localhost:3000/
+The app should be served at `http://localhost:3000/`
 
 # Special thanks to these ressources
 
-MEAN App with Angular 2 and the Angular CLI
-https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli
+[MEAN App with Angular 2 and the Angular CLI](https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli)
 
-Official Angular doc
-https://angular.io/
+[Official Angular doc](https://angular.io/)
