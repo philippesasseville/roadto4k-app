@@ -9,7 +9,7 @@ Your need to export a few environement variables.
 Here are the variables and the the places you can find them :
 
 MONGO_URI => spin up a free instance on mongolab and create a db user. The uri will look like this : 
-mongodb://<dbuser>:<dbpassword>@ds143559.mlab.com:43559/<db-name>
+mongodb://dbuser:dbpassword@ds143559.mlab.com:43559/db-name
 
 DOTA_API_KEY => simply log on this site to get your api key : http://steamcommunity.com/dev/apikey
 
@@ -19,7 +19,7 @@ STEAM_ID3
 
 These 3 values can be found using this site : https://profile.tf/
 
-export all of these with the command export VAR=<value>
+export all of these with the command export VAR=value
 
 # Running the app
 
