@@ -23,7 +23,7 @@ export all of these with the command export VAR=value
 
 # Running the app
 
-In the root folder run the command : npm run build
+In the root folder run theses command : npm install; npm run build;
 
 The app should be served at http://localhost:3000/
 
