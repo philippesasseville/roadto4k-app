@@ -2,6 +2,10 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+This project uses the MEAN stack.
+
+![alt text](http://i.imgur.com/1NPrqxx.png "mean stack")
+
 # Exporting the environement variables
 
 Your need to export a few environement variables.
