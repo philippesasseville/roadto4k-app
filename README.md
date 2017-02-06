@@ -37,6 +37,8 @@ In the root folder run theses command : `npm install; npm run build;`
 
 The app should be served at `http://localhost:3000/`
 
+(to serve the app on a different port `export PORT=XXXX;`)
+
 ![alt text](http://i.imgur.com/7Tvul2d.png "The app works!")
 
 # Special thanks to these ressources
