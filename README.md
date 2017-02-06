@@ -39,5 +39,14 @@ The app should be served at `http://localhost:3000/`
 
 [Official Angular doc](https://angular.io/)
 
+[Forum Thread on Dota2 Api Usage](http://dev.dota2.com/showthread.php?t=47115)
+
+[Node Dota2 Api Wrapper](https://www.npmjs.com/package/dota2-api)
+
+[PostMan App](https://www.getpostman.com/)
+
+[Sublime Text Editor](https://www.sublimetext.com/)
+
+[TypeScript Sublime Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
 
 ![alt text](http://i.imgur.com/a8iTWCF.png "Dota2")
