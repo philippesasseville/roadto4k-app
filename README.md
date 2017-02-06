@@ -33,6 +33,8 @@ In the root folder run theses command : `npm install; npm run build;`
 
 The app should be served at `http://localhost:3000/`
 
+![alt text](http://i.imgur.com/7Tvul2d.png "The app works!")
+
 # Special thanks to these ressources
 
 [MEAN App with Angular 2 and the Angular CLI](https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli)
