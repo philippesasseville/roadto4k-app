@@ -2,30 +2,27 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Running the app
 
-## Code scaffolding
+Your need to export a few environement variables.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+Here are the variables and the the place you can find them :
 
-## Build
+MONGO_URI => spin up a free instance on mongolab and create a db user. The uri will look like this : 
+mongodb://<dbuser>:<dbpassword>@ds143559.mlab.com:43559/<db-name>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+DOTA_API_KEY => simply log on this site to get your api key : http://steamcommunity.com/dev/apikey
 
-## Running unit tests
+STEAM_ACCOUNT_ID
+STEAM_ACCOUNT_ID32
+STEAM_ID3
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+These 3 values can be found using this site : https://profile.tf/
 
-## Running end-to-end tests
+# Special thanks to these ressources
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+MEAN App with Angular 2 and the Angular CLI
+https://scotch.io/tutorials/mean-app-with-angular-2-and-the-angular-cli
 
-## Deploying to GitHub Pages
-
-Run `ng github-pages:deploy` to deploy to GitHub Pages.
-
-## Further help
-
-To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Official Angular doc
+https://angular.io/
