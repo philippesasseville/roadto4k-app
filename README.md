@@ -6,7 +6,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 Your need to export a few environement variables.
 
-Here are the variables and the the place you can find them :
+Here are the variables and the the places you can find them :
 
 MONGO_URI => spin up a free instance on mongolab and create a db user. The uri will look like this : 
 mongodb://<dbuser>:<dbpassword>@ds143559.mlab.com:43559/<db-name>
